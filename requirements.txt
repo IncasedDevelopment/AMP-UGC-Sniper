@@ -1,0 +1,8 @@
+python-rapidjson
+aiohttp
+quart==0.17.0
+rgbprint
+cryptography
+requests
+pick
+discord.py
