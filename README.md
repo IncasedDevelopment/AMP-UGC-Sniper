@@ -1,7 +1,7 @@
 
 # [AMP-UGC Sniper]((https://discord.gg/uKT27euvF6))
 
-## Updated and working as of 12/14/2023, please report any bugs and issues in the Discord or Issues section.
+## Updated and working as of 05/02/2024, please report any bugs and issues in the Discord or Issues section.
 
 The fastest and most reliable limited sniper on GitHub.
 Snipes all free availible UGC and puts it into your Roblox Inventory and logs free UGC limited to a Discord Webhook.
@@ -64,8 +64,7 @@ It should look like this:
 or  
 > Asset1  
 > Asset2  
-> Asset3  
-or  
+> Asset3
 > link1  
 > link2  
 > link3  
